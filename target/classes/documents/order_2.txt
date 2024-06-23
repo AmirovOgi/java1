@@ -1,0 +1,1 @@
+id=2, number=2, date=2020-10-10, documentType=ORDER, products=[Product{id=1, foreign_id=1, name=FF, price=200.0}], 
